@@ -1,3 +1,0 @@
-[LocalizedFileNames]
-train_data.csv=@train_data,0
-test_data.csv=@test_data,0
